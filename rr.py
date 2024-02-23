@@ -1,1 +1,5 @@
 print("Hello")
+print("Hello World")
+age=int(input("Enter your age : "))
+father age=eval(age*2)
+print(father age)
